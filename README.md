@@ -27,3 +27,5 @@ Big-O gösterimini yazınız.
 # Big O Gösterimi
 
 Her adımda n işlem yapılmakta ve yukarıdan aşağı işlem sayısı 2^x = n ----> logn olduğundan O(nlogn)
+
+www.patika.dev
